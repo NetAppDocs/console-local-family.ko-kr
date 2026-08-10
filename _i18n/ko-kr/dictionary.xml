@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="doc">셀프 지원 옵션 사용</block>
+  <block id="e1b60c2ad9c154960f01bfe202788f74" category="paragraph">NetApp은 다양한 방식으로 NetApp Console 로컬 배포를 지원합니다. 기술 자료(KB) 문서 및 커뮤니티 포럼 등 광범위한 무료 자체 지원 옵션을 연중무휴 24시간 이용할 수 있습니다. 지원 등록에는 웹 티켓팅을 통한 원격 기술 지원이 포함됩니다.</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">이러한 옵션은 연중무휴 24시간 무료로 이용할 수 있습니다.</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">설명서</block>
+  <block id="5bb94d173380c00577f5e04b6f26bb94" category="paragraph">현재 보고 계신 NetApp Console 설명서입니다.</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">지식 기반</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="0e20091afcea2d83d0033a933ba85092" category="paragraph">NetApp 기술 자료에서 문제 해결에 도움이 되는 문서를 검색해 보세요.</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">커뮤니티</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="777d75a90b107e4f18469f82c4f81fe2" category="paragraph">NetApp Console 커뮤니티에 참여하여 진행 중인 토론을 확인하거나 새로운 토론을 시작해 보세요.</block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="doc">지원 등록 개요</block>
+  <block id="c3bd989c2b5ac8d3c39d676c243f24c8" category="paragraph">NetApp Console 로컬 배포 및 해당 스토리지 솔루션과 데이터 서비스에 특화된 기술 지원을 받으려면 지원 등록이 필요합니다.</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">지원 자격을 활성화하기 위한 등록 방법은 두 가지입니다.</block>
+  <block id="869a868c87f6fb61410cfd773b4f1bab" category="list-text">NetApp Console 계정 일련 번호(콘솔의 지원 리소스 페이지에 있는 20자리 960xxxxxxxxx 일련 번호)를 등록합니다.</block>
+  <block id="be0b51de4268d87101344aa0368b4403" category="paragraph">이는 콘솔 내 모든 서비스에 대한 단일 지원 구독 ID 역할을 합니다. 각 콘솔 계정은 등록되어야 합니다.</block>
+  <block id="ef5915c0fd287d47e033f66df5168a2d" category="sidebar">NetApp Console 로컬 배포를 통해 팀은 온프레미스 환경에서 하나의 안전한 제어 플랫폼을 통해 지능형 플릿 관리 기능을 활용할 수 있습니다. 기능별 문서를 찾아보거나 검색 기능을 사용하여 필요한 콘텐츠를 찾으세요.</block>
+  <block id="fe908ff50fedb21b0879418bfa836719" category="sidebar">NetApp Console 로컬 배포를 통해 팀은 하나의 안전한 제어 평면에서 온프레미스 환경의 지능형 플릿 관리 기능을 활용할 수 있습니다.</block>
+  <block id="fae210aa9f9d8906ee39264d97001f11" category="sidebar">NetApp Console 로컬 배포</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">모두</block>
+  <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
+  <block id="000fa64b9d4129e5c8d4065ad88f7816" category="sidebar">콘솔 로컬 배포</block>
+  <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">보호</block>
+  <block id="d4235acc6cfb5ad04f208b8c67cc4f11" category="sidebar">NetApp Console 로컬 배포를 통해 팀은 하나의 안전한 제어 플레인에서 온프레미스 환경의 지능형 플릿 관리 기능을 활용할 수 있습니다.</block>
+  <block id="cc6088539286339733631d73fb51774b" category="sidebar">NetApp Backup and Recovery</block>
+  <block id="231d0185318cf25dc336c3835730b9dc" category="sidebar">ONTAP 리소스를 보호하고 복구합니다.</block>
+  <block id="2552252bf4a8c9e15e4b1a3811386d74" category="sidebar">NetApp Console 로컬 배포 API 설명서</block>
+  <block id="c8a24b7035b964928d14fa8f2946396a" category="sidebar">NetApp Console 로컬 배포 API를 사용하여 NetApp Console 로컬 배포 및 스토리지 리소스를 프로그래밍 방식으로 관리하고 운영할 수 있습니다.</block>
+  <block id="c8687cc8b0048d02ed49a88bc671ffa6" category="sidebar">NetApp Console 로컬 배포 릴리스 노트</block>
+  <block id="986fa776fdb2bf5c17fa6df68739dcd7" category="sidebar">NetApp Console 로컬 배포 릴리스 노트는 최신 릴리스의 새로운 기능, 개선 사항 및 해결된 문제에 대한 정보를 제공합니다.</block>
+</blocks>
